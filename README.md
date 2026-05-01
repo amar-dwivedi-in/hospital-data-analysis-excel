@@ -67,7 +67,8 @@ Using Excel Pivot Tables and an interactive dashboard, the analysis highlights k
 
 ## 📷 Dashboard Preview
 
-*(Add your screenshot here after uploading)*
+<img width="1018" height="487" alt="image" src="https://github.com/user-attachments/assets/a7a9e49f-1085-4194-8308-b63cad3e53d4" />
+
 
 ---
 
